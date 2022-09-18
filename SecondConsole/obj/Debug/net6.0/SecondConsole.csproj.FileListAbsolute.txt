@@ -1,0 +1,15 @@
+E:\.Net projects\firstConsoleApp\SecondConsole\bin\Debug\net6.0\SecondConsole.exe
+E:\.Net projects\firstConsoleApp\SecondConsole\bin\Debug\net6.0\SecondConsole.deps.json
+E:\.Net projects\firstConsoleApp\SecondConsole\bin\Debug\net6.0\SecondConsole.runtimeconfig.json
+E:\.Net projects\firstConsoleApp\SecondConsole\bin\Debug\net6.0\SecondConsole.dll
+E:\.Net projects\firstConsoleApp\SecondConsole\bin\Debug\net6.0\SecondConsole.pdb
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.csproj.AssemblyReference.cache
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.AssemblyInfoInputs.cache
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.AssemblyInfo.cs
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.csproj.CoreCompileInputs.cache
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.dll
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\refint\SecondConsole.dll
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.pdb
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\SecondConsole.genruntimeconfig.cache
+E:\.Net projects\firstConsoleApp\SecondConsole\obj\Debug\net6.0\ref\SecondConsole.dll
